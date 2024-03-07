@@ -1,4 +1,6 @@
 # The Framework CLUE
+MindSpore implementation for CLUE
+
 ## Environment
 
 Computational platform: PyTorch 1.4.0, NVIDIA Geforce RTX 3090 (GPU), Inter i9-10900X (CPU), CUDA Toolkit 10.0
