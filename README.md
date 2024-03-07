@@ -1,5 +1,5 @@
 # The Framework CLUE
-MindSpore implementation for CLUE
+MindSpore implementation for CLUE (WWW'24 Jointly Canonicalizing and Linking Open Knowledge Base via Unified Embedding Learning)
 
 ## Environment
 
